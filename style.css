@@ -199,3 +199,11 @@ section p{
         left: -400%;
     }
 }  
+.terms{
+    text-align: right;
+    top: -20px;
+    position: relative;
+}
+.fcb{
+    padding: 20px;
+}
